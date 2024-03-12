@@ -1,2 +1,2 @@
 # Restaurant-scss
-This is home page of Restaurant created by html scss 
+web page of Restaurant created by html scss 
